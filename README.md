@@ -18,10 +18,10 @@ I am a highschool student currently studying in the **"Gimnazija Andrije Mohorov
 - MySQL.
 
 I am looking for a part time summer job in the IT industry, for which I would be available throughout June and August.
-
-You can reach me trough my email address: rokobrlek404@gmail.com
+<br>You can reach me trough my email address: rokobrlek404@gmail.com
 
 #### Projects and interests:
+- I am fluent in both English and Croatian.
 - I am currently learning computational biology.
 - I am currently working on project using C++ to try to implement a faster version of the computational biology programs usually written in python. 
 - I am very enthusiastic about mathematics, and have informal experience with proofs. I utilize math in the IT field by using mathematical modeling to come up with solutions to problems or optimizations to existing solutions.
