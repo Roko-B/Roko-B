@@ -1,5 +1,5 @@
 # Hello, My name is Roko Brlek
-I am a highschool student currently studying in the 3rd grade mathematics branch of the gymnasium of **"Gimnazija Andrije Mohorovičića, Rijeka."** I have experience in front end and back end development, as well as more low level languages such as ` C++ ` . I was part of our school's Crobotics teams as a backend software engineer for a year. I have a passion for mathematics, and informal experience with mathematical proofs. I utilize math in the IT field by using mathematical modeling to come up with solutions to problems or with optimizations to existing solutions.
+I am a highschool student currently studying in the 3rd grade mathematics branch of the gymnasium of **"Gimnazija Andrije Mohorovičića, Rijeka."** I have experience in front end and back end development, as well as more low level languages such as ` C++ ` . I was part of our school's Crobotics teams as a backend software engineer for a year. I have a passion for mathematics, and have informal experience with mathematical proofs. I utilize math in the IT field by using mathematical modeling to come up with solutions to problems or with optimizations to existing solutions.
 
 ## I have experience in/with
 - Java Script and React,
